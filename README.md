@@ -4,7 +4,7 @@
 
 Instrucciones:
 
-1. Descargar el *package* que se encuentra dentro de este repositorio con el cuál tendras acceso a la interfaz a desarrollar.
+1. Descargar el *[package](https://github.com/mes-cchavez/dev-ui-test.git)* que se encuentra dentro de este repositorio con el cuál tendras acceso a la interfaz a desarrollar: `/ui/Test.sketch`.
 	* 	Usar [Yeoman](http://yeoman.io/) para la creación del boilerplate.
 
 		*N: Puedes utilizar el siguiente generador: [WebApp Generator](https://github.com/yeoman/generator-webapp.git)*
